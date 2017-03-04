@@ -1,0 +1,22 @@
+{
+  "name": "models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "UserModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TN-TN/Models.git"
+  },
+  "author": "Tom Sacher <tomnik104@yahoo.de>",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/TN-TN/Models/issues"
+  },
+  "homepage": "https://github.com/TN-TN/Models#readme",
+  "dependencies": {
+    "thinky": "^2.3.8"
+  }
+}
